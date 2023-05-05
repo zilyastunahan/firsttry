@@ -1,0 +1,30 @@
+{
+  "name": "db95servicedroid",
+  "version": "1.0.0",
+  "description": "servicedroid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "slavia": "echo `ukraina`",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "starwars",
+    "droid",
+    "experiment",
+    "pocket"
+  ],
+  "author": "Dunav Ziljovic",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.1.0",
+    "nodemailer": "^6.9.1",
+    "simple-is": "^0.2.0"
+     },
+
+     "repository": {
+      "type": "git",
+      "url": "https://github.com/zilyastunahan/firsttry.git"
+     }
+
+}
